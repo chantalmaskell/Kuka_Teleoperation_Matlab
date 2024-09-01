@@ -1,6 +1,6 @@
 Solo university assignment to create a teleoperation system in MATLAB to remotely control a Kuka youBot (KYB) in CoppeliaSim (formerly V-rep). MATLAB's GUIDE was used to create the GUI for all robot controls.
 
-<img src="https://github.com/user-attachments/assets/ea6dfd69-22d4-43ed-b5b1-09a8b5b93463" alt="image" width="400"/>
+![youBot in action](./youBot_gif.gif)
 
 MATLAB's GUIDE was used to create the GUI for all robot controls (pictured below).
 
